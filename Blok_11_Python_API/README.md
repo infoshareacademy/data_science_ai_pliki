@@ -1,4 +1,4 @@
-# Zadania z API – Moduł 10
+# Zadania z API – Moduł 11
 
 Poniżej znajduje się lista zadań wraz z odnośnikami do dokumentacji używanych API:
 
