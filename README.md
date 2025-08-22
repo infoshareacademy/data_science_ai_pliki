@@ -1,1 +1,4 @@
-# data_science_ai_pliki
+Aby pobrać wybrany pik:
+
+kliknij w konkretny plik,
+naciśnij strzałkę w dół.
